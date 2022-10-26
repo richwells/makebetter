@@ -14,6 +14,9 @@ margin-bottom:2rem;
   background: #fff;
   padding:1.5rem;
   padding-bottom: 0;
+  @include media-breakpoint-down(sm) {
+    font-size: $font-size-lg;
+  }
   @include media-breakpoint-up(md) {
     padding:3rem;
     padding-right: 1.5rem;

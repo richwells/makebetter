@@ -11885,6 +11885,11 @@ a.tn--link-tile:hover .tn__title {
   padding: 1.5rem;
   padding-bottom: 0;
 }
+@media (max-width: 767.98px) {
+  .landing-col-left {
+    font-size: 1.25rem;
+  }
+}
 @media (min-width: 768px) {
   .landing-col-left {
     padding: 3rem;
