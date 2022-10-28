@@ -1887,8 +1887,8 @@
 		"oA": 0,
 		"oAP": "/img/content/eedi-3-w.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1898,8 +1898,8 @@
 		"oA": 0,
 		"oAP": "/img/content/eedi-3.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1909,8 +1909,8 @@
 		"oA": 0,
 		"oAP": "/img/content/eedi-4-w.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1920,8 +1920,8 @@
 		"oA": 0,
 		"oAP": "/img/content/eedi-4.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
