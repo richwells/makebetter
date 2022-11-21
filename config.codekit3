@@ -2819,8 +2819,8 @@
 		"oA": 0,
 		"oAP": "/img/content/scg-2-w.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -2830,8 +2830,8 @@
 		"oA": 0,
 		"oAP": "/img/content/scg-2.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
