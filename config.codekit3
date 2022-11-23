@@ -1550,6 +1550,14 @@
 		"oS": 0,
 		"sct": 0
 		},
+	"/fonts/Mona-Sans.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/fonts/Mona-Sans.woff2",
+		"oF": 0
+		},
 	"/img/arrow-next.svg": {
 		"ft": 2097152,
 		"miP": 0,

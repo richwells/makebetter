@@ -18,11 +18,11 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
 
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+  font-family: "Mona Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #16353d;
+  color: #000;
   text-align: left;
   background-color: #fff;
 }
@@ -115,12 +115,12 @@ sup {
 }
 
 a {
-  color: #16353d;
+  color: #000;
   text-decoration: none;
   background-color: transparent;
 }
 a:hover {
-  color: #020405;
+  color: black;
   text-decoration: underline;
 }
 
@@ -341,7 +341,7 @@ template {
   --breakpoint-md: 768px;
   --breakpoint-lg: 992px;
   --breakpoint-xl: 1200px;
-  --font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+  --font-family-sans-serif: "Mona Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
   --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 
@@ -364,11 +364,11 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
 
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+  font-family: "Mona Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #16353d;
+  color: #000;
   text-align: left;
   background-color: #fff;
 }
@@ -461,12 +461,12 @@ sup {
 }
 
 a {
-  color: #16353d;
+  color: #000;
   text-decoration: none;
   background-color: transparent;
 }
 a:hover {
-  color: #020405;
+  color: black;
   text-decoration: underline;
 }
 
@@ -1956,7 +1956,7 @@ pre code {
 .table {
   width: 100%;
   margin-bottom: 1rem;
-  color: #16353d;
+  color: #000;
 }
 .table th,
 .table td {
@@ -2001,7 +2001,7 @@ pre code {
 }
 
 .table-hover tbody tr:hover {
-  color: #16353d;
+  color: #000;
   background-color: rgba(0, 0, 0, 0.075);
 }
 
@@ -2355,7 +2355,7 @@ select.form-control:focus::-ms-value {
   margin-bottom: 0;
   font-size: 1rem;
   line-height: 1.5;
-  color: #16353d;
+  color: #000;
   background-color: transparent;
   border: solid transparent;
   border-width: 1px 0;
@@ -2688,7 +2688,7 @@ textarea.form-control {
 .btn {
   display: inline-block;
   font-weight: 400;
-  color: #16353d;
+  color: #000;
   text-align: center;
   vertical-align: middle;
   user-select: none;
@@ -2706,7 +2706,7 @@ textarea.form-control {
   }
 }
 .btn:hover {
-  color: #16353d;
+  color: #000;
   text-decoration: none;
 }
 .btn:focus, .btn.focus {
@@ -3166,11 +3166,11 @@ fieldset:disabled a.btn {
 
 .btn-link {
   font-weight: 400;
-  color: #16353d;
+  color: #000;
   text-decoration: none;
 }
 .btn-link:hover {
-  color: #020405;
+  color: black;
   text-decoration: underline;
 }
 .btn-link:focus, .btn-link.focus {
@@ -3272,7 +3272,7 @@ input[type=button].btn-block {
   padding: 0.5rem 0;
   margin: 0.125rem 0 0;
   font-size: 1rem;
-  color: #16353d;
+  color: #000;
   text-align: left;
   list-style: none;
   background-color: #fff;
@@ -4849,13 +4849,13 @@ input[type=button].btn-block {
   padding: 0.5rem 0.75rem;
   margin-left: -1px;
   line-height: 1.25;
-  color: #16353d;
+  color: #000;
   background-color: #fff;
   border: 1px solid #dee2e6;
 }
 .page-link:hover {
   z-index: 2;
-  color: #020405;
+  color: black;
   text-decoration: none;
   background-color: #e9ecef;
   border-color: #dee2e6;
@@ -5277,7 +5277,7 @@ a.badge-dark:focus, a.badge-dark.focus {
   background-color: #f8f9fa;
 }
 .list-group-item-action:active {
-  color: #16353d;
+  color: #000;
   background-color: #e9ecef;
 }
 
@@ -5822,7 +5822,7 @@ a.close.disabled {
   z-index: 1070;
   display: block;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+  font-family: "Mona Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
   font-style: normal;
   font-weight: 400;
   line-height: 1.5;
@@ -5924,7 +5924,7 @@ a.close.disabled {
   z-index: 1060;
   display: block;
   max-width: 276px;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+  font-family: "Mona Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
   font-style: normal;
   font-weight: 400;
   line-height: 1.5;
@@ -6059,7 +6059,7 @@ a.close.disabled {
 
 .popover-body {
   padding: 0.5rem 0.75rem;
-  color: #16353d;
+  color: #000;
 }
 
 .carousel {
@@ -10083,7 +10083,7 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 .text-body {
-  color: #16353d !important;
+  color: #000 !important;
 }
 
 .text-muted {
@@ -10996,6 +10996,12 @@ body[data-aos-easing=ease-in-out-quart] [data-aos], [data-aos][data-aos][data-ao
   text-decoration-color: rgba(84, 168, 180, 0.55);
 }
 
+@font-face {
+  font-family: "Mona Sans";
+  src: url("Mona-Sans.woff2") format("woff2 supports variations"), url("Mona-Sans.woff2") format("woff2-variations");
+  font-weight: 200 900;
+  font-stretch: 75% 125%;
+}
 html {
   font-size: 90%;
 }
@@ -11803,7 +11809,7 @@ header#masthead .navbar {
 
 .tn {
   margin-bottom: 0;
-  color: #16353d;
+  color: #000;
   text-decoration: none;
   -webkit-transition: all 0.3s ease;
   transition: all 0.3s ease;
