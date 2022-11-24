@@ -22,7 +22,7 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #000;
+  color: #222;
   text-align: left;
   background-color: #fff;
 }
@@ -115,7 +115,7 @@ sup {
 }
 
 a {
-  color: #000;
+  color: #222;
   text-decoration: none;
   background-color: transparent;
 }
@@ -368,7 +368,7 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #000;
+  color: #222;
   text-align: left;
   background-color: #fff;
 }
@@ -461,7 +461,7 @@ sup {
 }
 
 a {
-  color: #000;
+  color: #222;
   text-decoration: none;
   background-color: transparent;
 }
@@ -1956,7 +1956,7 @@ pre code {
 .table {
   width: 100%;
   margin-bottom: 1rem;
-  color: #000;
+  color: #222;
 }
 .table th,
 .table td {
@@ -2001,7 +2001,7 @@ pre code {
 }
 
 .table-hover tbody tr:hover {
-  color: #000;
+  color: #222;
   background-color: rgba(0, 0, 0, 0.075);
 }
 
@@ -2355,7 +2355,7 @@ select.form-control:focus::-ms-value {
   margin-bottom: 0;
   font-size: 1rem;
   line-height: 1.5;
-  color: #000;
+  color: #222;
   background-color: transparent;
   border: solid transparent;
   border-width: 1px 0;
@@ -2688,7 +2688,7 @@ textarea.form-control {
 .btn {
   display: inline-block;
   font-weight: 400;
-  color: #000;
+  color: #222;
   text-align: center;
   vertical-align: middle;
   user-select: none;
@@ -2706,7 +2706,7 @@ textarea.form-control {
   }
 }
 .btn:hover {
-  color: #000;
+  color: #222;
   text-decoration: none;
 }
 .btn:focus, .btn.focus {
@@ -3166,7 +3166,7 @@ fieldset:disabled a.btn {
 
 .btn-link {
   font-weight: 400;
-  color: #000;
+  color: #222;
   text-decoration: none;
 }
 .btn-link:hover {
@@ -3272,7 +3272,7 @@ input[type=button].btn-block {
   padding: 0.5rem 0;
   margin: 0.125rem 0 0;
   font-size: 1rem;
-  color: #000;
+  color: #222;
   text-align: left;
   list-style: none;
   background-color: #fff;
@@ -4849,7 +4849,7 @@ input[type=button].btn-block {
   padding: 0.5rem 0.75rem;
   margin-left: -1px;
   line-height: 1.25;
-  color: #000;
+  color: #222;
   background-color: #fff;
   border: 1px solid #dee2e6;
 }
@@ -5277,7 +5277,7 @@ a.badge-dark:focus, a.badge-dark.focus {
   background-color: #f8f9fa;
 }
 .list-group-item-action:active {
-  color: #000;
+  color: #222;
   background-color: #e9ecef;
 }
 
@@ -6059,7 +6059,7 @@ a.close.disabled {
 
 .popover-body {
   padding: 0.5rem 0.75rem;
-  color: #000;
+  color: #222;
 }
 
 .carousel {
@@ -10083,7 +10083,7 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 .text-body {
-  color: #000 !important;
+  color: #222 !important;
 }
 
 .text-muted {
@@ -10998,7 +10998,7 @@ body[data-aos-easing=ease-in-out-quart] [data-aos], [data-aos][data-aos][data-ao
 
 @font-face {
   font-family: "Mona Sans";
-  src: url("Mona-Sans.woff2") format("woff2 supports variations"), url("Mona-Sans.woff2") format("woff2-variations");
+  src: url("../fonts/Mona-Sans.woff2") format("woff2 supports variations"), url("../fonts/Mona-Sans.woff2") format("woff2-variations");
   font-weight: 200 900;
   font-stretch: 75% 125%;
 }
@@ -11809,7 +11809,7 @@ header#masthead .navbar {
 
 .tn {
   margin-bottom: 0;
-  color: #000;
+  color: #222;
   text-decoration: none;
   -webkit-transition: all 0.3s ease;
   transition: all 0.3s ease;
