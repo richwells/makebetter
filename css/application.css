@@ -11956,6 +11956,12 @@ a.tn--link-tile:hover .tn__title {
   margin-right: 0.5rem;
 }
 
+@media (max-width: 767.98px) {
+  .intro, .desc-small {
+    font-weight: 470;
+  }
+}
+
 .desc-small {
   color: #70768e;
 }

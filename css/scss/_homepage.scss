@@ -67,8 +67,10 @@ margin-bottom:2rem;
   display: inline;
   margin-right: 0.5rem;
 }
-.intro {
-  
+.intro, .desc-small {
+  @include media-breakpoint-down(sm) {
+    font-weight: 470;
+  }
 }
 .desc-small {
   // font-size: $font-size-sm;
