@@ -11002,6 +11002,10 @@ body[data-aos-easing=ease-in-out-quart] [data-aos], [data-aos][data-aos][data-ao
   font-weight: 200 900;
   font-stretch: 75% 125%;
 }
+body {
+  font-weight: 420;
+}
+
 html {
   font-size: 90%;
 }
@@ -11905,6 +11909,10 @@ a.tn--link-tile:hover .tn__title {
     width: 30%;
     max-width: 390px;
   }
+}
+
+.get-in-touch-link {
+  font-weight: 600;
 }
 
 .landing-col-right {
