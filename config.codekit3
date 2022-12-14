@@ -1550,6 +1550,38 @@
 		"oS": 0,
 		"sct": 0
 		},
+	"/fonts/Graphik-Medium-Web.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/fonts/Graphik-Medium-Web.woff",
+		"oF": 0
+		},
+	"/fonts/Graphik-Medium-Web.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/fonts/Graphik-Medium-Web.woff2",
+		"oF": 0
+		},
+	"/fonts/Graphik-Regular-Web.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/fonts/Graphik-Regular-Web.woff",
+		"oF": 0
+		},
+	"/fonts/Graphik-Regular-Web.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/fonts/Graphik-Regular-Web.woff2",
+		"oF": 0
+		},
 	"/fonts/Mona-Sans.woff2": {
 		"cB": 0,
 		"ft": 8192,
@@ -3135,8 +3167,8 @@
 		"oA": 0,
 		"oAP": "/img/content/stc-2-w.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3146,8 +3178,8 @@
 		"oA": 0,
 		"oAP": "/img/content/stc-2.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3157,8 +3189,8 @@
 		"oA": 0,
 		"oAP": "/img/content/stc-3-w.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3168,8 +3200,8 @@
 		"oA": 0,
 		"oAP": "/img/content/stc-3.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3179,8 +3211,8 @@
 		"oA": 0,
 		"oAP": "/img/content/stc-4-w.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3190,8 +3222,8 @@
 		"oA": 0,
 		"oAP": "/img/content/stc-4.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
