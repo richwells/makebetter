@@ -11930,7 +11930,8 @@ a.tn--link-tile:hover .tn__title {
 }
 
 .get-in-touch-link {
-  font-weight: 600;
+  font-weight: 500;
+  text-decoration: underline;
 }
 
 .landing-col-right {
@@ -11972,12 +11973,6 @@ a.tn--link-tile:hover .tn__title {
   line-height: inherit;
   display: inline;
   margin-right: 0.5rem;
-}
-
-@media (max-width: 767.98px) {
-  .intro, .desc-small {
-    font-weight: 470;
-  }
 }
 
 .desc-small {
