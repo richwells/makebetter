@@ -11928,10 +11928,10 @@ a.tn--link-tile:hover .tn__title {
     max-width: 390px;
   }
 }
-@media (max-height: 680px) {
+@media (max-height: 680px) and (min-width: 700px) {
   .landing-col-left {
     width: 100%;
-    max-width: 100%;
+    max-width: 600px;
     position: relative;
     height: auto;
     padding-bottom: 0;
@@ -11956,7 +11956,7 @@ a.tn--link-tile:hover .tn__title {
     margin-left: 30%;
   }
 }
-@media (max-height: 680px) {
+@media (max-height: 680px) and (min-width: 700px) {
   .landing-col-right {
     width: 100%;
     margin-left: 0;
@@ -11998,6 +11998,24 @@ a.tn--link-tile:hover .tn__title {
 
 #collagetest {
   background: #000;
+}
+
+.collage-video-wide {
+  display: none;
+}
+@media (min-width: 768px) {
+  .collage-video-wide {
+    display: block;
+  }
+}
+
+.collage-video-mobile {
+  display: block;
+}
+@media (min-width: 768px) {
+  .collage-video-mobile {
+    display: none;
+  }
 }
 
 .slide-html {
