@@ -2116,6 +2116,50 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/img/content/eedi-5-w.png": {
+		"ft": 32768,
+		"iS": 135452,
+		"oA": 0,
+		"oAP": "/img/content/eedi-5-w.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/content/eedi-5.png": {
+		"ft": 32768,
+		"iS": 103102,
+		"oA": 0,
+		"oAP": "/img/content/eedi-5.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/content/eedi-6-w.png": {
+		"ft": 32768,
+		"iS": 253924,
+		"oA": 0,
+		"oAP": "/img/content/eedi-6-w.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/content/eedi-6.png": {
+		"ft": 32768,
+		"iS": 211729,
+		"oA": 0,
+		"oAP": "/img/content/eedi-6.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/img/content/hiswtk-1-w.png": {
 		"ft": 32768,
 		"iS": 2121585,
