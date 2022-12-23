@@ -11029,7 +11029,7 @@ html {
 }
 @media (min-width: 768px) {
   html {
-    font-size: 100%;
+    font-size: 95%;
   }
 }
 @media (min-width: 992px) {
@@ -11922,10 +11922,15 @@ a.tn--link-tile:hover .tn__title {
   .landing-col-left {
     padding: 3rem;
     padding-right: 1.5rem;
-    height: 100vh;
-    position: fixed;
     width: 30%;
     max-width: 390px;
+    height: 100vh;
+    position: fixed;
+  }
+}
+@media (min-width: 768px) and (max-width: 920px) {
+  .landing-col-left p {
+    font-size: 0.95rem;
   }
 }
 @media (max-height: 680px) and (min-width: 700px) {
@@ -11996,14 +12001,10 @@ a.tn--link-tile:hover .tn__title {
   color: #70768e;
 }
 
-#collagetest {
-  background: #000;
-}
-
 .collage-video-wide {
   display: none;
 }
-@media (min-width: 768px) {
+@media (min-width: 576px) {
   .collage-video-wide {
     display: block;
   }
@@ -12012,7 +12013,7 @@ a.tn--link-tile:hover .tn__title {
 .collage-video-mobile {
   display: block;
 }
-@media (min-width: 768px) {
+@media (min-width: 576px) {
   .collage-video-mobile {
     display: none;
   }
@@ -12028,7 +12029,7 @@ a.tn--link-tile:hover .tn__title {
   width: 100%;
   padding-top: 100%;
 }
-@media (min-width: 768px) {
+@media (min-width: 576px) {
   .slide-html:before {
     padding-top: 50%;
   }
